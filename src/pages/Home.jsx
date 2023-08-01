@@ -91,7 +91,7 @@ export default function Home() {
       <section>
         <div className="flex justify-center  flex-col md:flex-row ">
           <div className="w-full">
-            <img src={employerImg} alt="" className="" />
+            <img src={employerImg} alt="" className="mx-auto" />
           </div>
           <div className="w-full">
             <h2 className="font-bold text-center mt-5 text-2xl md:text-4xl  leading-normal ">
